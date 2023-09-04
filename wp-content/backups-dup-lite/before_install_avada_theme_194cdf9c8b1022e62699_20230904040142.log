@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 4 September 2023 4:01 น.
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5.1
+WORDPRESS:	6.3.1
+PHP INFO:	7.4.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.35 (Win64) OpenSSL/1.1.1k PHP/7.4.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 36MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: before_install_avada_theme_194cdf9c8b1022e62699_20230904040142_database.sql
+SQL FILE SIZE: 1.03MB (1077972)
+SQL FILE TIME: 2023-09-04 04:01:51
+SQL RUNTIME: 3.19 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  D:/laragon/www/atitatravel
+ARCHIVE FILE: before_install_avada_theme_194cdf9c8b1022e62699_20230904040142_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	75.69MB
+STATS:	Dirs 558 | Files 3,934
+SQL ADDED: before_install_avada_theme_194cdf9c8b1022e62699_20230904040142_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4492
+    [filename] => D:\laragon\www\atitatravel\wp-content\backups-dup-lite\tmp\before_install_avada_theme_194cdf9c8b1022e62699_20230904040142_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4491
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 27.87MB
+ARCHIVE RUNTIME: 50.88 sec.
+MEMORY STACK: 38MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.03MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 29.7MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,492
+ACTUAL FILE/DIRECTORY COUNT: 4,491
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 55.18 sec.
+PEAK PHP MEMORY USED: 38MB
+DONE PROCESSING => before_install_avada_theme 4 September 2023 4:02 น.
+

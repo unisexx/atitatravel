@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'Tour-Operator';
+  src:  url('fonts/Tour-Operator.eot?mavzfv');
+  src:  url('fonts/Tour-Operator.eot?mavzfv#iefix') format('embedded-opentype'),
+    url('fonts/Tour-Operator.ttf?mavzfv') format('truetype'),
+    url('fonts/Tour-Operator.woff?mavzfv') format('woff'),
+    url('fonts/Tour-Operator.svg?mavzfv#Tour-Operator') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="awb-touroperator-"], [class*=" awb-touroperator-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Tour-Operator' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.awb-touroperator-angle-right-solid:before {
+  content: "\e915";
+}
+.awb-touroperator-at-solid:before {
+  content: "\e916";
+}
+.awb-touroperator-bars-solid:before {
+  content: "\e917";
+}
+.awb-touroperator-building-solid:before {
+  content: "\e918";
+}
+.awb-touroperator-calendar-regular:before {
+  content: "\e919";
+}
+.awb-touroperator-check-circle-regular:before {
+  content: "\e91a";
+}
+.awb-touroperator-check-solid:before {
+  content: "\e91b";
+}
+.awb-touroperator-clock-regular:before {
+  content: "\e91c";
+}
+.awb-touroperator-coins-solid:before {
+  content: "\e91d";
+}
+.awb-touroperator-cube-solid:before {
+  content: "\e91e";
+}
+.awb-touroperator-ellipsis-h-solid:before {
+  content: "\e91f";
+}
+.awb-touroperator-envelope-open-solid:before {
+  content: "\e920";
+}
+.awb-touroperator-globe-solid:before {
+  content: "\e921";
+}
+.awb-touroperator-info-solid:before {
+  content: "\e922";
+}
+.awb-touroperator-location-arrow-solid:before {
+  content: "\e923";
+}
+.awb-touroperator-phone-solid:before {
+  content: "\e924";
+}
+.awb-touroperator-play-solid:before {
+  content: "\e925";
+}
+.awb-touroperator-star-solid:before {
+  content: "\e926";
+}
+.awb-touroperator-times-solid:before {
+  content: "\e927";
+}
+.awb-touroperator-tty-solid:before {
+  content: "\e928";
+}
+.awb-touroperator-address:before {
+  content: "\e902";
+}
+.awb-touroperator-email:before {
+  content: "\e913";
+}
+.awb-touroperator-phone:before {
+  content: "\e914";
+}
+.awb-touroperator-camera:before {
+  content: "\e912";
+}
+.awb-touroperator-like:before {
+  content: "\e907";
+}
+.awb-touroperator-lunch:before {
+  content: "\e909";
+}
+.awb-touroperator-air-trip:before {
+  content: "\e90c";
+}
+.awb-touroperator-tour-days:before {
+  content: "\e90d";
+}
+.awb-touroperator-transport:before {
+  content: "\e90e";
+}
+.awb-touroperator-sightseeing:before {
+  content: "\e90f";
+}
+.awb-touroperator-camping:before {
+  content: "\e910";
+}
+.awb-touroperator-tour-guide:before {
+  content: "\e911";
+}
+.awb-touroperator-sightseen-2:before {
+  content: "\e906";
+}
+.awb-touroperator-bag:before {
+  content: "\e908";
+}
+.awb-touroperator-destination:before {
+  content: "\e90a";
+}
+.awb-touroperator-shirt:before {
+  content: "\e90b";
+}
+.awb-touroperator-arrow-1:before {
+  content: "\e900";
+}
+.awb-touroperator-arrow-2:before {
+  content: "\e901";
+}
+.awb-touroperator-destinations:before {
+  content: "\e903";
+}
+.awb-touroperator-packages:before {
+  content: "\e904";
+}
+.awb-touroperator-tours:before {
+  content: "\e905";
+}
